@@ -1,0 +1,4 @@
+SERVER = {
+        'domain': 'localhost',
+        'port': '8888',
+        }
